@@ -65,12 +65,5 @@
 
 ---
 
-## 🌟 GitHub Stats  
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliHussnain1919&show_icons=true&theme=radical)  
-
-### 🧑‍💻 **Top Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHussnain1919&layout=compact&theme=radical)  
-
----
 
 ### 🌟 "Technology for Good, Creativity for the Future."  
