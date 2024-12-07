@@ -41,7 +41,7 @@
 ## 💬 Let's Connect!  
 - 📧 Email: [alihussnain1919@gmail.com](mailto:alihussnain1919@gmail.com)  
 - 🌐 LinkedIn: [Ali Hussnain's LinkedIn](https://www.linkedin.com/in/alihussnain1919/)  
-- 🐦 Instagram: [Ali Hussnain](https://www.instagram.com/alihussssssnain/)
+- 📸 Instagram: [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/alihussssssnain/)
 
 ---
 
