@@ -38,26 +38,6 @@
 
 ---
 
-## 📚 Projects  
-
-### [Anthropod Player](https://github.com/AliHussnain1919/anthropod-player)  
-🎵 A mobile app enabling artists to upload exclusive content and set their own prices.  
-**Technologies:** React Native, Node.js, MongoDB, Google Cloud.  
-
-### [Entry Test Prep System](https://github.com/AliHussnain1919/entry-test-prep)  
-🎓 A platform supporting 100+ students in exam preparation with progress tracking.  
-**Technologies:** ReactJS, Node.js, Express.js, MongoDB.  
-
-### [Hotel Management System](https://github.com/AliHussnain1919/hotel-management)  
-🏨 A Java desktop app for managing hotel reservations and staff requests.  
-**Technologies:** Java.  
-
-### [Blog Website](https://github.com/AliHussnain1919/blog-website)  
-📝 A dynamic blog platform with user authentication and content management.  
-**Technologies:** C#, ASP.NET Core, SQL.  
-
----
-
 ## 💬 Let's Connect!  
 - 📧 Email: [alihussnain1919@gmail.com](mailto:alihussnain1919@gmail.com)  
 - 🌐 LinkedIn: [Ali Hussnain's LinkedIn](https://www.linkedin.com/in/ali-hussnain/)  
