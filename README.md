@@ -40,9 +40,9 @@
 
 ## 💬 Let's Connect!  
 - 📧 Email: [alihussnain1919@gmail.com](mailto:alihussnain1919@gmail.com)  
-- 🌐 LinkedIn: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/alihussnain1919/)  
-- 📸 Instagram: [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/alihussssssnain/)
-  
+- 🌐 LinkedIn: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png =20x20)](https://www.linkedin.com/in/alihussnain1919/)  
+- 📸 Instagram: [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png =20x20)](https://www.instagram.com/alihussssssnain/)
+
 ---
 
 ### 🧑‍💻 **Top Languages**  
