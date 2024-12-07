@@ -40,8 +40,8 @@
 
 ## 💬 Let's Connect!  
 - 📧 Email: [alihussnain1919@gmail.com](mailto:alihussnain1919@gmail.com)  
-- 🌐 LinkedIn: [Ali Hussnain's LinkedIn](https://www.linkedin.com/in/alihussnain1919/)  
-- 📸 Instagram: [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/alihussssssnain/)
+- 🌐 LinkedIn: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png?width=30)](https://www.linkedin.com/in/alihussnain1919/)  
+- 📸 Instagram: [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png?width=30)](https://www.instagram.com/alihussssssnain/)
 
 ---
 
